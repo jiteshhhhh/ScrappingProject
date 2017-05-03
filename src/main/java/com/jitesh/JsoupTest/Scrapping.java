@@ -36,7 +36,6 @@ public class Scrapping {
 				System.out.println("MLA Name: "+MLAname);
 				System.out.println("Constituency Name: "+ constituencyName);
 				System.out.println("Party: "+ partyName);
-				System.out.println("MLA Details URL: "+link);
 				
 				System.out.println("========================================");
 				
